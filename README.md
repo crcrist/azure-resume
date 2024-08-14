@@ -11,7 +11,7 @@ This is my resume as a part of the Cloud Resume Challenge built on Azure. So far
 The current structure looks like the above diagram, however I will be updating this as functionality is added, at this point this image comes directly from this [repository](https://github.com/madebygps/azure-resume/tree/main) by Gwyneth Pena-Siguenza who also made the original tutorial.
 
 ## Demo
-The website can be found [here]()
+The website can be found [here](https://resume-connorcrist.azureedge.net/)
 
 ## Pre-requisites
 - Azure account and resource group
